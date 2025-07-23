@@ -7,7 +7,7 @@
 <title>Name</title>
 </head>
 <body>
-Shubham Shukla is my name
-<h2>My project name is Spring Mvc Project new name undo</h2>
+Shubham Shukla is my name new changes
+
 </body>
 </html>
