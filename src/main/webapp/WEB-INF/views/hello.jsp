@@ -8,6 +8,6 @@
 </head>
 <body>
 Shubham Shukla is my name
-<h2>My project name is Spring Mvc</h2>
+<h2>My project name is Spring Mvc Project</h2>
 </body>
 </html>
